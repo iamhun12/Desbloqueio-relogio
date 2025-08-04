@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "acesso-ponto-scrapper",
+  "version": "1.0.0",
+  "description": "A simple script to get an unlock code from a website.",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "node scrapper.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^17.2.1"
+  }
+}
